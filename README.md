@@ -6,7 +6,7 @@
 [![Reddit](https://img.shields.io/badge/u/daawaan4U-FF4500?logo=reddit&logoColor=white&link=https://reddit.com/user/u/daawaan4U/)](https://reddit.com/user/u/daawaan4U/)
 [![Leetcode](https://img.shields.io/badge/@theoneeclarin-black?logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/theoneeclarin/)](https://leetcode.com/theoneeclarin/)
 
-Welcome to my profile! I'm a _BS Computer Science_ student, a Technical Minecrafter, and a Software Developer. I'm primarily interested in Geospatial Information Systems (GIS) and Creative Coding for Procedural Animations & Data Visualization.
+Welcome to my profile! I'm an undergraduate _Computer Science_ student, a Technical Minecrafter, and a Software Developer. I'm primarily interested in Geospatial Information Systems (GIS) and Creative Coding for Procedural Animations & Data Visualization.
 
 
 ## Tech Stack
